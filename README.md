@@ -1,5 +1,6 @@
 # Общая информация
 
+- Ссылка на текст тестового задания - https://drive.google.com/file/d/1A8Qk0ADArJrK9oHQl4i4CKOGe9uKufcS
 - Клон agar.io
 - Версия Unity - 2022.3.10f1
 - Время выполнения - 18 часов
